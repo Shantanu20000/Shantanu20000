@@ -11,22 +11,22 @@
   <a href="https://github.com/Shantanu20000/Jenkins.git" target="https://github.com/Shantanu20000/Jenkins.git">
     <img src="https://img.shields.io/badge/-Jenkins-0A0A0A?logo=Jenkins&style=for-the-badge" />
   </a>
-  <a href="https://www.docker.com/" target="https://github.com/Shantanu20000/Docker.git">
+  <a href="https://github.com/Shantanu20000/Docker.git" target="https://github.com/Shantanu20000/Docker.git">
     <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge" />
   </a>
-  <a href="https://kubernetes.io/" target="https://github.com/Shantanu20000/K8s_3Teir_StudentApp_Project.git">
+  <a href="https://github.com/Shantanu20000/K8s_3Teir_StudentApp_Project.git" target="https://github.com/Shantanu20000/K8s_3Teir_StudentApp_Project.git">
     <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&style=for-the-badge" />
   </a>
-  <a href="https://www.terraform.io/" target="https://github.com/Shantanu20000/Terraform.git">
+  <a href="https://github.com/Shantanu20000/Terraform.git" target="https://github.com/Shantanu20000/Terraform.git">
     <img src="https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&style=for-the-badge" />
   </a>
-  <a href="https://aws.amazon.com/" target="https://github.com/Shantanu20000/AWS_Pipeline_Project.git">
+  <a href="https://github.com/Shantanu20000/Terraform.git" target="https://github.com/Shantanu20000/Terraform.git">
     <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&style=for-the-badge" />
   </a>
-  <a href="https://prometheus.io/" target="https://github.com/Shantanu20000/Prometheus-Grafana.git">
+  <a href="https://github.com/Shantanu20000/Prometheus-Grafana.git" target="https://github.com/Shantanu20000/Prometheus-Grafana.git">
     <img src="https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&style=for-the-badge" />
   </a>
-  <a href="https://grafana.com/" target="https://github.com/Shantanu20000/Prometheus-Grafana.git">
+  <a href="https://github.com/Shantanu20000/Prometheus-Grafana.git" target="https://github.com/Shantanu20000/Prometheus-Grafana.git">
     <img src="https://img.shields.io/badge/-Grafana-F46800?logo=grafana&style=for-the-badge" />
   </a>
   <a href="https://www.linux.org/" target="_blank">
@@ -35,7 +35,7 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Git-F05032?logo=git&style=for-the-badge" />
   </a>
-  <a href="https://www.sonarqube.org/" target="">
+  <a href="https://github.com/Shantanu20000/Prometheus-Grafana.git" target="">
     <img src="https://img.shields.io/badge/-Sonarqube-4E9BCD?logo=sonarqube&style=for-the-badge" />
   </a>
 </p>
