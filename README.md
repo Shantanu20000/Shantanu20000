@@ -8,7 +8,7 @@
 ### 🛠️ DevOps Tools & Technologies
 
 <p align="left">
-  <a href="https://www.jenkins.io/" target="https://github.com/Shantanu20000/Jenkins.git">
+  <a href="https://github.com/Shantanu20000/Jenkins.git" target="https://github.com/Shantanu20000/Jenkins.git">
     <img src="https://img.shields.io/badge/-Jenkins-0A0A0A?logo=Jenkins&style=for-the-badge" />
   </a>
   <a href="https://www.docker.com/" target="https://github.com/Shantanu20000/Docker.git">
