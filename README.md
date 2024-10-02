@@ -65,8 +65,7 @@
 
 ### 🔗 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/shantanu-vanarase-aa6b17238)
-- [GitHub](https://github.com/Shantanu20000)
+- [My Profile](https://shan.ocean-learner.cloud)
 
 Feel free to explore my repositories and reach out if you want to collaborate or chat!
 
