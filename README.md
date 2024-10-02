@@ -65,7 +65,7 @@
 
 ### 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/shantanu-xyz/)
+- [LinkedIn](https://linkedin.com/in/shantanu-vanarase-aa6b17238)
 - [GitHub](https://github.com/Shantanu20000)
 
 Feel free to explore my repositories and reach out if you want to collaborate or chat!
