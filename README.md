@@ -1,5 +1,5 @@
 
-# Hi there, I'm Shantanu! 👋
+# Hi there, I'm Shantanu! <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> </a>
 
 🚀 DevOps Engineer | Cloud Enthusiast | Linux Administrator | CI/CD Expert
 
