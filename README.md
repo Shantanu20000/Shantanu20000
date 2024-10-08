@@ -1,5 +1,5 @@
 
-# Hi there, I'm Shantanu! <a> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
+# Hi there, I'm Shantanu!
 
 🚀 DevOps Engineer | Cloud Enthusiast | Linux Administrator | CI/CD Expert
 
