@@ -47,7 +47,7 @@
 
 ### 🔗 Connect with Me
 
-- [My Profile](https://shan.ocean-learner.cloud)
+- [My Profile](https://ocean-learner.cloud)
 
 Feel free to explore my repositories and reach out if you want to collaborate or chat!
 
