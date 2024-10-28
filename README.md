@@ -47,7 +47,7 @@
 
 ### 🔗 Connect with Me
 
-- [My Profile](https://ocean-learner.cloud)
+- [My Profile](https://shantanu20000.github.io/Profile_Project_With_K8s/)
 
 Feel free to explore my repositories and reach out if you want to collaborate or chat!
 
