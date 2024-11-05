@@ -1,5 +1,5 @@
 
-# Hi there, I'm Shantanu!
+# Hi Everyone, I'm Shantanu!
 
 🚀 DevOps Engineer | Cloud Enthusiast | Linux Administrator | CI/CD Expert
 
