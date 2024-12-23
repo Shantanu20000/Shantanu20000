@@ -3,6 +3,7 @@
 
 🚀 DevOps Engineer | Cloud Enthusiast | Linux Administrator | CI/CD Expert
 
+[![AWS Certified Solutions Architect – Associate](https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Solutions-Architect-Associate_512x512.9d744a2dd123249a6b4168c69f851b3f09b907a3.png)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 ---
 
 ### 🛠️ DevOps Tools & Technologies
