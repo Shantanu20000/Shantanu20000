@@ -2,8 +2,9 @@
 # Hi Everyone, I'm Shantanu!
 
 🚀 DevOps Engineer | Cloud Enthusiast | Linux Administrator | CI/CD Expert
+---
+[![AWS Certified Solutions Architect – Associate](https://github.com/Shantanu20000/Shantanu20000/blob/main/aws-certified-solutions-architect-associate%20(1).png)](https://www.credly.com/badges/df71e6c4-807f-4228-a69b-80291c9c3d46/public_url)
 
-[!([[aws-certified-solutions-architect-associate (1).png](https://github.com/Shantanu20000/Shantanu20000/blob/main/aws-certified-solutions-architect-associate%20(1).png)](https://github.com/Shantanu20000/Shantanu20000/blob/main/aws-certified-solutions-architect-associate%20(1).png)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 ---
 
 ### 🛠️ DevOps Tools & Technologies
