@@ -3,7 +3,7 @@
 
 🚀 DevOps Engineer | Cloud Enthusiast | Linux Administrator | CI/CD Expert
 
-[![AWS Certified Solutions Architect – Associate]([aws-certified-solutions-architect-associate (1).png](https://github.com/Shantanu20000/Shantanu20000/blob/main/aws-certified-solutions-architect-associate%20(1).png)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+[!([[aws-certified-solutions-architect-associate (1).png](https://github.com/Shantanu20000/Shantanu20000/blob/main/aws-certified-solutions-architect-associate%20(1).png)](https://github.com/Shantanu20000/Shantanu20000/blob/main/aws-certified-solutions-architect-associate%20(1).png)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 ---
 
 ### 🛠️ DevOps Tools & Technologies
