@@ -1,7 +1,7 @@
 
 # Hi Everyone, I'm Shantanu!
 
-🚀 Sr.DevOps Engineer | Cloud Architect | Linux Administrator | CI/CD Expert
+🚀 Sr. DevOps Engineer | Cloud Architect | Linux Admin | CI/CD Expert
 ---
 ### 🌟 Certifications
 [![AWS Certified Solutions Architect – Associate](https://github.com/Shantanu20000/Shantanu20000/blob/main/aws-certified-solutions-architect-associate%20(1).png)](https://www.credly.com/badges/df71e6c4-807f-4228-a69b-80291c9c3d46/public_url)      Next One is Comming Soon ...
