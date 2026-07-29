@@ -7,7 +7,7 @@
 
 [![AWS Certified Solutions Architect – Associate](https://github.com/Shantanu20000/Shantanu20000/blob/main/aws-certified-solutions-architect-associate%20(1).png)](https://www.credly.com/badges/df71e6c4-807f-4228-a69b-80291c9c3d46/public_url)
 
-🚀 **Next AWS Certification Coming Soon...**
+🚀 **Next One is Coming Soon...**
 
 ---
 
@@ -125,7 +125,7 @@ Punjab: https://cadpb.zhl.in
 ### Highlights
 
 - Designed and maintained a Microservices-based architecture.
-- Automated CI/CD pipelines using Jenkins, Docker, and Nginx.
+- Automated CI/CD pipelines using Jenkins, Docker and Nginx.
 - Successfully cleared Government External IT Security Audits.
 - Managed PostgreSQL High Availability clusters.
 - Implemented SSL certificates and Security Headers.
@@ -154,7 +154,7 @@ Designed and managed a highly available cloud infrastructure for a multi-environ
 
 ### Highlights
 
-- Automated deployments across Dev, Test, UAT, and Production.
+- Automated deployments across Dev, Test, UAT and Production.
 - Implemented zero-downtime deployment strategy.
 - Managed Frontend and Backend communication.
 - Configured DNS using AWS Route53.
