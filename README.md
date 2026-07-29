@@ -194,7 +194,7 @@ Feel free to explore my repositories, collaborate on DevOps projects or connect 
 
 ---
 
-# ⭐ Quote
+## ⭐ Quote
 
 > **"Automating infrastructure today for a smarter tomorrow."**
 
