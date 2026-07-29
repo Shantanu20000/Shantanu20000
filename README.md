@@ -50,7 +50,7 @@
 
 ### 🔗 Connect with Me
 
-- [My Profile](https://shantanu20000.github.io/Profile_Project_With_K8s/)
+- [My Portfolio](https://shantanu20000.github.io/newportfolio/)
 
 Feel free to explore my repositories and reach out if you want to collaborate or chat!
 
