@@ -3,7 +3,7 @@
 
 ### 🚀 Sr. DevOps Engineer | AWS Certified Solutions Architect | Cloud & Infrastructure Engineer
 
-# 🌟 Certifications
+## 🌟 Certifications
 
 [![AWS Certified Solutions Architect – Associate](https://github.com/Shantanu20000/Shantanu20000/blob/main/aws-certified-solutions-architect-associate%20(1).png)](https://www.credly.com/badges/df71e6c4-807f-4228-a69b-80291c9c3d46/public_url)
 
@@ -24,7 +24,7 @@ I specialize in **AWS, Kubernetes, Docker, Terraform, Jenkins, Linux, CI/CD, Inf
 
 ---
 
-# 🛠️ DevOps Tools & Technologies
+## 🛠️ DevOps Tools & Technologies
 
 <a href="https://github.com/Shantanu20000/Terraform.git" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
@@ -92,7 +92,7 @@ I specialize in **AWS, Kubernetes, Docker, Terraform, Jenkins, Linux, CI/CD, Inf
 
 ---
 
-# ☁️ Cloud Platforms
+## ☁️ Cloud Platforms
 
 <p align="left">
 
@@ -112,9 +112,9 @@ I specialize in **AWS, Kubernetes, Docker, Terraform, Jenkins, Linux, CI/CD, Inf
 
 ---
 
-# 💼 Featured Projects
+## 💼 Featured Projects
 
-## 🏛️ State Government EDS Platform (Bihar, UP, Punjab)
+### 🏛️ State Government EDS Platform (Bihar, UP, Punjab)
 
 Enterprise-grade Government Emergency Dispatch System deployed on On-Premise Infrastructure.
 
@@ -124,7 +124,7 @@ Bihar: https://edsbr.zenplus.in/
 UP: https://cadup.zhl.in
 Punjab: https://cadpb.zhl.in
 
-### Highlights
+#### Highlights
 
 - Designed and maintained a Microservices-based architecture.
 - Automated CI/CD pipelines using Jenkins, Docker and Nginx.
@@ -139,11 +139,11 @@ Punjab: https://cadpb.zhl.in
 
 ---
 
-## 🛒 E-Commerce Infrastructure
+### 🛒 E-Commerce Infrastructure
 
 Designed and managed a highly available cloud infrastructure for a multi-environment e-commerce platform.
 
-### Technologies
+#### Technologies
 
 - AWS
 - Docker
@@ -154,7 +154,7 @@ Designed and managed a highly available cloud infrastructure for a multi-environ
 - Prometheus
 - Grafana
 
-### Highlights
+#### Highlights
 
 - Automated deployments across Dev, Test, UAT and Production.
 - Implemented zero-downtime deployment strategy.
@@ -165,11 +165,11 @@ Designed and managed a highly available cloud infrastructure for a multi-environ
 
 ---
 
-## ⚡ AWS CI/CD Pipeline
+### ⚡ AWS CI/CD Pipeline
 
 Developed a fully automated CI/CD pipeline using native AWS DevOps services.
 
-### Services Used
+#### Services Used
 
 - AWS CodeCommit
 - AWS CodeBuild
@@ -184,7 +184,7 @@ Repository:
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 🌐 Portfolio
 
