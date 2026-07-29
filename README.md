@@ -3,9 +3,17 @@
 
 ## 🚀 Senior DevOps Engineer | AWS Certified Solutions Architect | Cloud & Infrastructure Engineer
 
-💻 Passionate about building scalable, secure, and automated cloud infrastructure.
+# 🌟 Certifications
 
-I specialize in **AWS, Kubernetes, Docker, Terraform, Jenkins, Linux, CI/CD, Infrastructure as Code, Monitoring, and Cloud Security.**
+[![AWS Certified Solutions Architect – Associate](https://github.com/Shantanu20000/Shantanu20000/blob/main/aws-certified-solutions-architect-associate%20(1).png)](https://www.credly.com/badges/df71e6c4-807f-4228-a69b-80291c9c3d46/public_url)
+
+🚀 **Next AWS Certification Coming Soon...**
+
+---
+
+💻 Passionate about building scalable, secure and automated cloud infrastructure.
+
+I specialize in **AWS, Kubernetes, Docker, Terraform, Jenkins, Linux, CI/CD, Infrastructure as Code, Monitoring and Cloud Security.**
 
 - ☁️ AWS Certified Solutions Architect – Associate
 - 🚀 3.5+ Years of Experience in DevOps & Cloud Technologies
@@ -13,14 +21,6 @@ I specialize in **AWS, Kubernetes, Docker, Terraform, Jenkins, Linux, CI/CD, Inf
 - 📦 Kubernetes & Docker Specialist
 - 🔐 DevSecOps & Production Support
 - 🌱 Currently learning Advanced Kubernetes, GitOps & Platform Engineering
-
----
-
-# 🌟 Certifications
-
-[![AWS Certified Solutions Architect – Associate](https://github.com/Shantanu20000/Shantanu20000/blob/main/aws-certified-solutions-architect-associate%20(1).png)](https://www.credly.com/badges/df71e6c4-807f-4228-a69b-80291c9c3d46/public_url)
-
-🚀 **Next AWS Certification Coming Soon...**
 
 ---
 
@@ -114,9 +114,13 @@ I specialize in **AWS, Kubernetes, Docker, Terraform, Jenkins, Linux, CI/CD, Inf
 
 # 💼 Featured Projects
 
-## 🏛️ State Government EDS Platform (Bihar)
+## 🏛️ State Government EDS Platform (Bihar, UP, Punjab)
 
 Enterprise-grade Government Emergency Dispatch System deployed on On-Premise Infrastructure.
+🌐 Website
+Bihar: https://cadbr.zhl.in
+UP: https://cadup.zhl.in
+Punjab: https://cadpb.zhl.in
 
 ### Highlights
 
@@ -178,19 +182,13 @@ Repository:
 
 ---
 
-# 📊 GitHub Stats
-
-> *(You can add GitHub Readme Stats here later.)*
-
----
-
 # 🤝 Let's Connect
 
 🌐 Portfolio
 
 https://shantanu20000.github.io/newportfolio/
 
-Feel free to explore my repositories, collaborate on DevOps projects, or connect for cloud and infrastructure discussions.
+Feel free to explore my repositories, collaborate on DevOps projects or connect for cloud and infrastructure discussions.
 
 ---
 
