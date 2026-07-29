@@ -1,7 +1,7 @@
 
 # Hi there, I'm Shantanu Vanarase 👋
 
-### 🚀 Sr. DevOps Engineer | AWS Certified Solutions Architect | Cloud & Infrastructure Engineer
+### Sr. DevOps Engineer | AWS Certified Solutions Architect | Cloud & Infrastructure Engineer
 
 ## 🌟 Certifications
 
