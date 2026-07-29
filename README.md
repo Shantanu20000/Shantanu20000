@@ -120,7 +120,7 @@ Enterprise-grade Government Emergency Dispatch System deployed on On-Premise Inf
 
 🌐 Website
 
-Bihar: https://cadedsbr.zhl.in
+Bihar: https://edsbr.zenplus.in/
 UP: https://cadup.zhl.in
 Punjab: https://cadpb.zhl.in
 
